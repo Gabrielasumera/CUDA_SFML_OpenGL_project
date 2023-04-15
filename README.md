@@ -9,11 +9,11 @@ Output:
 
 
 
-<img src="output1">
+<img src="output1.png">
 
 
-<img src="output2">
+<img src="output2.png">
 
 
-<img src="output3">
+<img src="output3.png">
 
