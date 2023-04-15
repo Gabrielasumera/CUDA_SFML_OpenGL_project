@@ -8,6 +8,7 @@ Project displays textured cube with adjustable brightness. You can move the came
 Output:
 
 
+
 <img src="output1">
 
 
@@ -15,3 +16,4 @@ Output:
 
 
 <img src="output3">
+
